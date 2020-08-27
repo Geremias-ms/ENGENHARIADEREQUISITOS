@@ -1,0 +1,21 @@
+DECLARAÇÃO DO ESCOPO:
+
+Cliente:
+Lojas de roupas, pessoa física, empresas de seguimento de moda.
+
+Partes interessadas/stakeholders:
+Lojas, pessoas físicas, Gerente de projeto, Analista de sistema, Desenvolvedor, Analista comercial, Marketing, Analista de teste, Analista de Segurança, Engenheiro de Software.
+
+Produto:
+Espelho Inteligente
+
+Produto:
+Iremos criar um espelho inteligente, nele será possível ter a previsão do tempo, cadastrar as roupas que temos no guarda roupa, e com ajuda de uma IA ira refletir uma imagem com alguma roupa que selecionarmos, e podendo também pedir uma sugestão de roupas para se encaixar com o clima e lugar para onde deseja ir.
+Também podemos acessar alguma loja parceira para fazermos o download de suas roupas e provar sem precisar ir à loja, e assim podendo ter a comodidade de fazer tudo de sua casa, no caso de pessoa física.
+Já para lojas, podemos cadastrar tanto roupas que temos na loja física, quanto na loja online, deixando como aviso para o cliente se possui em estoque na loja física. Esse espelho irá reduzir o tempo com provadores, e mais clientes serão atendidos, e com mais agilidade nessa operação, mais clientes vão ir à loja.
+Para isso iremos desenvolver um sistema com inteligência artificial, para que essa IA possa refletir a imagem computadorizada no espelho, faremos isso em um prazo de 4 meses.
+Requisitos dos sistemas:
+O Sistema de permitir cadastro do usuário, cadastro dos itens do guarda roupa (ou estoque da loja), interface prática e inteligente para o usuário, banco de dados em nuvem, equipe de segurança da informação para tratar esses dados, aplicativo para celular integrado com o espelho.
+
+Metodologia:
+Utilizaremos em todo nosso projeto a metodologia SCRUM.
