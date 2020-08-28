@@ -1,3 +1,5 @@
-| Tipo de Comunicação | Objetivos |
-| ------------------- | --------- |
-| teste de numero um  | teste |
+Tipo de Comunicação|	Objetivos |	Meio|	Frequencia|	Audiência|	Dono|	Entregas|
+Reunião de inicio|	Apresentar a equipe e o projeto. Revisar os objetivos do projeto e a abordagem de gestão.|	Face a Face|	Uma única vez|	Cliente, Time do projeto,Stakeholders |	Gerente do projeto|	Ata da reunião|
+Daily Scrum|	Revisar o status do projeto com a equipe|	Face a Face, videoconferência|	Diariamente|	Time do projeto|	Gerente do projeto|	Ata da reunião|
+Reuniões tecnicas de design|	Discutir e desenvolver o design técnido da solução do projeto|	Face a Face|	Quando preciso|	Pessoal técnico do projeto|	Líder técnico|	Ata da reunião|
+Relatórios de status do projeto|	Relatar o status do projeto, incluindo atividades, progresso, custos e problemas. |	E-mail|	Mensal|	Cliente, Time do projeto, Stakeholders |	Gerente do projeto|	Relatório de status do projeto|
